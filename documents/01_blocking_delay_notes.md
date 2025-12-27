@@ -20,7 +20,9 @@ HAL_Delay() relies on SysTick timebase which creates a blocking time delay in mi
 ```
 
 ## Results
-(Video here)
+
+
+https://github.com/user-attachments/assets/e530a177-54a0-416b-b874-09fb0a2b423b
 
 ## HAL_Delay Expanded with Two LEDs
 A second LED will be added to provide a visual example of HAL_DELAY. It will be connected to PA6 with jumper wires on an external breadboard. The while loop will now appear as: 
@@ -35,5 +37,8 @@ A second LED will be added to provide a visual example of HAL_DELAY. It will be 
   }
 ```
 ## Results
-A timing diagram of the two LEDs can be seen (here) in addition to the video below:
-(Video here)
+A timing diagram of the two LEDs can be seen [here](stm32-gpio-and-timing-fundamentals/documents/timing_diagrams.md) in addition to the video below:
+
+https://github.com/user-attachments/assets/9def579e-fbed-41a6-9f5e-62fc631cdb66
+
+)
