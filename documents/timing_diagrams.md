@@ -12,4 +12,6 @@
 | 1500-2000 | HAL_DELAY(500)        | OFF  | OFF  |
 
 ### Blocking Delay Timing Diagram
+Below is a visual representation of the LEDs active and in active states relative to each other. With annotations of the code states in increments. 
+
 (fill)
