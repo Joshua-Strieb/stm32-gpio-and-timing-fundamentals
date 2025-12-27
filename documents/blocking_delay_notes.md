@@ -11,6 +11,14 @@ HAL_GPIO_TogglePin() enables the desired pin that we want to use, which will loo
 
 HAL_Delay() relies on SysTick timebase which creates a blocking time delay in milliseconds. If called in its default state of HAL_Delay() it will produce a delay of 1ms. In our case it will look like HAL_Delay(500).
 
+```c
+  while (1)
+  {
+    HAL_GPIO_TogglePin(GPIOA, GPIO_PIN_5);
+    HAL_Delay(500);
+  }
+```
+
 ## Results
 (Video here)
 
@@ -21,6 +29,7 @@ A second LED will be added to provide a visual example of the HAL_DELAY. It will
   {
     HAL_GPIO_TogglePin(GPIOA, GPIO_PIN_5);
     HAL_Delay(500);
+
     HAL_GPIO_TogglePin(GPIOA, GPIO_PIN_6);
     HAL_Delay(500);
   }
