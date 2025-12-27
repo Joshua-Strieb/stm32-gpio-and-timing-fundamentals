@@ -2,7 +2,7 @@
 A blocking delay puts the CPU in a hold state. This interrupts all operations making it difficult for multitasking but remains simple to use for individual projects.
 
 ## Pinout
-PA5 will be designated as GPIO Output within STM32CubeMX.
+PA5 will be connected to an LED with it being designated as a GPIO Output within STM32CubeMX. Later on, PA6 will be disgnated the same with an additional LED.
 
 ## Program
 HAL_GPIO_TogglePin() and HAL_Delay() functions will be used inside of the infinite while loop in order to blink the LED. Both functions are already defined when the STM32CubeMX generates the code. 
