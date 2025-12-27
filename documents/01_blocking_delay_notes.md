@@ -37,7 +37,7 @@ A second LED will be added to provide a visual example of HAL_DELAY. It will be 
   }
 ```
 ## Results
-A timing diagram of the two LEDs can be seen [here](documents/timing_diagrams.md) in addition to the video below:
+A timing diagram of the two LEDs can be seen [here](timing_diagrams.md) in addition to the video below:
 
 https://github.com/user-attachments/assets/9def579e-fbed-41a6-9f5e-62fc631cdb66
 
