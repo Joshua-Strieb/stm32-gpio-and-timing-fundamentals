@@ -1,0 +1,12 @@
+# STM32CubeIDE
+Debug/
+Release/
+.settings/
+.build/
+.metadata/
+*.launch
+.mxproject
+
+# OS junk
+.DS_Store
+Thumbs.db
