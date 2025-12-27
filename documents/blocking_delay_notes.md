@@ -9,4 +9,4 @@ HAL_GPIO_TogglePin() and HAL_Delay() functions will be used inside of a while lo
 
 HAL_GPIO_TogglePin() enables the desired pin that we want to use, which will look like: HAL_GPIO_TogglePin(GPIOA, GPIO_PIN_5) with pin 5 being PA5
 
-HAL_Delay() creates a blocking time delay in milliseconds. If called in its default state of HAL_Delay() it will produce a delay of 1ms. In our case it will look like HAL_Delay(500).
+HAL_Delay() relies on SysTick timebase which creates a blocking time delay in milliseconds. If called in its default state of HAL_Delay() it will produce a delay of 1ms. In our case it will look like HAL_Delay(500).
