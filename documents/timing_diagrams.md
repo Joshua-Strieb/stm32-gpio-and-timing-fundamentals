@@ -14,4 +14,4 @@
 ### Blocking Delay Timing Diagram
 Below is a visual representation of the LEDs active and in active states relative to each other. With annotations of the code states in increments. 
 
-(fill)
+<img width="1100" height="380" alt="timing_diagram_HAL" src="https://github.com/user-attachments/assets/959faceb-4a1b-462c-8b2e-843f66b3f7f5" />
