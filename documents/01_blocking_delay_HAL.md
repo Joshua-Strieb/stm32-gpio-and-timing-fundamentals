@@ -39,7 +39,4 @@ A second LED will be added to provide a visual example of HAL_DELAY. It will be 
 ## Results
 A timing diagram of the two LEDs can be seen [here](timing_diagrams.md) in addition to the video below. This shows that even though it seems that both LEDs should operated at the same time, the HAL_Delay prevents this. Additionally, they operate incorrectly, as the desired time enabled is 500ms. But due to the delay each LED stays active for 1000ms.
 
-
-https://github.com/user-attachments/assets/9def579e-fbed-41a6-9f5e-62fc631cdb66
-
-)
+https://github.com/user-attachments/assets/659181d2-4269-4a2d-ab7c-a2501c445348
