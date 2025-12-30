@@ -21,8 +21,7 @@ HAL_Delay() relies on SysTick timebase which creates a blocking time delay in mi
 
 ## Results
 
-
-https://github.com/user-attachments/assets/e530a177-54a0-416b-b874-09fb0a2b423b
+https://github.com/user-attachments/assets/194f9ef2-5770-415d-864b-b5842985b3ec
 
 ## HAL_Delay Expanded with Two LEDs
 A second LED will be added to provide a visual example of HAL_DELAY. It will be connected to PA6 with jumper wires on an external breadboard. The while loop will now appear as: 
