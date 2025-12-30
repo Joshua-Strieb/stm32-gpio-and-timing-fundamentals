@@ -1,0 +1,384 @@
+
+Discarded input sections
+
+ .group         0x00000000        0xc build/Core/src/main.o
+ .group         0x00000000        0xc build/Core/src/main.o
+ .group         0x00000000        0xc build/Core/src/main.o
+ .group         0x00000000        0xc build/Core/src/main.o
+ .group         0x00000000        0xc build/Core/src/main.o
+ .group         0x00000000        0xc build/Core/src/main.o
+ .group         0x00000000        0xc build/Core/src/main.o
+ .group         0x00000000        0xc build/Core/src/main.o
+ .group         0x00000000        0xc build/Core/src/main.o
+ .group         0x00000000        0xc build/Core/src/main.o
+ .group         0x00000000        0xc build/Core/src/main.o
+ .text          0x00000000        0x0 build/Core/src/main.o
+ .data          0x00000000        0x0 build/Core/src/main.o
+ .bss           0x00000000        0x0 build/Core/src/main.o
+ .group         0x00000000        0xc build/Drivers/CMSIS/Device/ST/STM32F4xx/Source/system_stm32f4xx.o
+ .group         0x00000000        0xc build/Drivers/CMSIS/Device/ST/STM32F4xx/Source/system_stm32f4xx.o
+ .group         0x00000000        0xc build/Drivers/CMSIS/Device/ST/STM32F4xx/Source/system_stm32f4xx.o
+ .group         0x00000000        0xc build/Drivers/CMSIS/Device/ST/STM32F4xx/Source/system_stm32f4xx.o
+ .group         0x00000000        0xc build/Drivers/CMSIS/Device/ST/STM32F4xx/Source/system_stm32f4xx.o
+ .group         0x00000000        0xc build/Drivers/CMSIS/Device/ST/STM32F4xx/Source/system_stm32f4xx.o
+ .group         0x00000000        0xc build/Drivers/CMSIS/Device/ST/STM32F4xx/Source/system_stm32f4xx.o
+ .group         0x00000000        0xc build/Drivers/CMSIS/Device/ST/STM32F4xx/Source/system_stm32f4xx.o
+ .group         0x00000000        0xc build/Drivers/CMSIS/Device/ST/STM32F4xx/Source/system_stm32f4xx.o
+ .group         0x00000000        0xc build/Drivers/CMSIS/Device/ST/STM32F4xx/Source/system_stm32f4xx.o
+ .group         0x00000000        0xc build/Drivers/CMSIS/Device/ST/STM32F4xx/Source/system_stm32f4xx.o
+ .text          0x00000000        0x0 build/Drivers/CMSIS/Device/ST/STM32F4xx/Source/system_stm32f4xx.o
+ .data          0x00000000        0x0 build/Drivers/CMSIS/Device/ST/STM32F4xx/Source/system_stm32f4xx.o
+ .bss           0x00000000        0x0 build/Drivers/CMSIS/Device/ST/STM32F4xx/Source/system_stm32f4xx.o
+ .rodata.APBPrescTable
+                0x00000000        0x8 build/Drivers/CMSIS/Device/ST/STM32F4xx/Source/system_stm32f4xx.o
+ .text.SystemInit
+                0x00000000       0x24 build/Drivers/CMSIS/Device/ST/STM32F4xx/Source/system_stm32f4xx.o
+ .debug_macro   0x00000000      0xacc build/Drivers/CMSIS/Device/ST/STM32F4xx/Source/system_stm32f4xx.o
+ .debug_macro   0x00000000       0x2e build/Drivers/CMSIS/Device/ST/STM32F4xx/Source/system_stm32f4xx.o
+ .debug_macro   0x00000000       0x28 build/Drivers/CMSIS/Device/ST/STM32F4xx/Source/system_stm32f4xx.o
+ .debug_macro   0x00000000      0x34e build/Drivers/CMSIS/Device/ST/STM32F4xx/Source/system_stm32f4xx.o
+ .debug_macro   0x00000000       0x1c build/Drivers/CMSIS/Device/ST/STM32F4xx/Source/system_stm32f4xx.o
+ .debug_macro   0x00000000       0x22 build/Drivers/CMSIS/Device/ST/STM32F4xx/Source/system_stm32f4xx.o
+ .debug_macro   0x00000000       0xfb build/Drivers/CMSIS/Device/ST/STM32F4xx/Source/system_stm32f4xx.o
+ .debug_macro   0x00000000     0x1011 build/Drivers/CMSIS/Device/ST/STM32F4xx/Source/system_stm32f4xx.o
+ .debug_macro   0x00000000      0x11f build/Drivers/CMSIS/Device/ST/STM32F4xx/Source/system_stm32f4xx.o
+ .debug_macro   0x00000000     0xb968 build/Drivers/CMSIS/Device/ST/STM32F4xx/Source/system_stm32f4xx.o
+ .debug_macro   0x00000000       0x6d build/Drivers/CMSIS/Device/ST/STM32F4xx/Source/system_stm32f4xx.o
+ .group         0x00000000        0xc build/Core/src/gpio.o
+ .group         0x00000000        0xc build/Core/src/gpio.o
+ .group         0x00000000        0xc build/Core/src/gpio.o
+ .group         0x00000000        0xc build/Core/src/gpio.o
+ .group         0x00000000        0xc build/Core/src/gpio.o
+ .group         0x00000000        0xc build/Core/src/gpio.o
+ .group         0x00000000        0xc build/Core/src/gpio.o
+ .group         0x00000000        0xc build/Core/src/gpio.o
+ .group         0x00000000        0xc build/Core/src/gpio.o
+ .group         0x00000000        0xc build/Core/src/gpio.o
+ .group         0x00000000        0xc build/Core/src/gpio.o
+ .text          0x00000000        0x0 build/Core/src/gpio.o
+ .data          0x00000000        0x0 build/Core/src/gpio.o
+ .bss           0x00000000        0x0 build/Core/src/gpio.o
+ .text.gpio_set_a
+                0x00000000       0x28 build/Core/src/gpio.o
+ .text.gpio_clear_a
+                0x00000000       0x2c build/Core/src/gpio.o
+ .text.gpio_read_a
+                0x00000000       0x2c build/Core/src/gpio.o
+ .debug_macro   0x00000000      0xacc build/Core/src/gpio.o
+ .debug_macro   0x00000000      0x34e build/Core/src/gpio.o
+ .debug_macro   0x00000000       0x2e build/Core/src/gpio.o
+ .debug_macro   0x00000000       0x28 build/Core/src/gpio.o
+ .debug_macro   0x00000000       0x1c build/Core/src/gpio.o
+ .debug_macro   0x00000000       0x22 build/Core/src/gpio.o
+ .debug_macro   0x00000000       0xfb build/Core/src/gpio.o
+ .debug_macro   0x00000000     0x1011 build/Core/src/gpio.o
+ .debug_macro   0x00000000      0x11f build/Core/src/gpio.o
+ .debug_macro   0x00000000     0xb968 build/Core/src/gpio.o
+ .debug_macro   0x00000000       0x6d build/Core/src/gpio.o
+ .group         0x00000000        0xc build/Core/src/clock.o
+ .group         0x00000000        0xc build/Core/src/clock.o
+ .group         0x00000000        0xc build/Core/src/clock.o
+ .group         0x00000000        0xc build/Core/src/clock.o
+ .group         0x00000000        0xc build/Core/src/clock.o
+ .group         0x00000000        0xc build/Core/src/clock.o
+ .group         0x00000000        0xc build/Core/src/clock.o
+ .group         0x00000000        0xc build/Core/src/clock.o
+ .group         0x00000000        0xc build/Core/src/clock.o
+ .group         0x00000000        0xc build/Core/src/clock.o
+ .group         0x00000000        0xc build/Core/src/clock.o
+ .text          0x00000000        0x0 build/Core/src/clock.o
+ .data          0x00000000        0x0 build/Core/src/clock.o
+ .bss           0x00000000        0x0 build/Core/src/clock.o
+ .debug_macro   0x00000000      0xacc build/Core/src/clock.o
+ .debug_macro   0x00000000      0x34e build/Core/src/clock.o
+ .debug_macro   0x00000000       0x2e build/Core/src/clock.o
+ .debug_macro   0x00000000       0x28 build/Core/src/clock.o
+ .debug_macro   0x00000000       0x1c build/Core/src/clock.o
+ .debug_macro   0x00000000       0x22 build/Core/src/clock.o
+ .debug_macro   0x00000000       0xfb build/Core/src/clock.o
+ .debug_macro   0x00000000     0x1011 build/Core/src/clock.o
+ .debug_macro   0x00000000      0x11f build/Core/src/clock.o
+ .debug_macro   0x00000000     0xb968 build/Core/src/clock.o
+ .debug_macro   0x00000000       0x6d build/Core/src/clock.o
+ .group         0x00000000        0xc build/Core/src/uart.o
+ .group         0x00000000        0xc build/Core/src/uart.o
+ .group         0x00000000        0xc build/Core/src/uart.o
+ .group         0x00000000        0xc build/Core/src/uart.o
+ .group         0x00000000        0xc build/Core/src/uart.o
+ .group         0x00000000        0xc build/Core/src/uart.o
+ .group         0x00000000        0xc build/Core/src/uart.o
+ .group         0x00000000        0xc build/Core/src/uart.o
+ .group         0x00000000        0xc build/Core/src/uart.o
+ .group         0x00000000        0xc build/Core/src/uart.o
+ .group         0x00000000        0xc build/Core/src/uart.o
+ .group         0x00000000        0xc build/Core/src/uart.o
+ .text          0x00000000        0x0 build/Core/src/uart.o
+ .data          0x00000000        0x0 build/Core/src/uart.o
+ .bss           0x00000000        0x0 build/Core/src/uart.o
+ .text.uart2_gpio_init
+                0x00000000       0xa0 build/Core/src/uart.o
+ .text.uart2_init
+                0x00000000       0x8c build/Core/src/uart.o
+ .text.uart2_write_byte
+                0x00000000       0x30 build/Core/src/uart.o
+ .text.uart2_write_n
+                0x00000000       0x36 build/Core/src/uart.o
+ .text.uart2_write
+                0x00000000       0x38 build/Core/src/uart.o
+ .debug_info    0x00000000      0x452 build/Core/src/uart.o
+ .debug_abbrev  0x00000000      0x14c build/Core/src/uart.o
+ .debug_aranges
+                0x00000000       0x40 build/Core/src/uart.o
+ .debug_rnglists
+                0x00000000       0x2d build/Core/src/uart.o
+ .debug_macro   0x00000000       0xa8 build/Core/src/uart.o
+ .debug_macro   0x00000000      0xacc build/Core/src/uart.o
+ .debug_macro   0x00000000       0x2e build/Core/src/uart.o
+ .debug_macro   0x00000000       0x28 build/Core/src/uart.o
+ .debug_macro   0x00000000      0x34e build/Core/src/uart.o
+ .debug_macro   0x00000000       0x1c build/Core/src/uart.o
+ .debug_macro   0x00000000       0x22 build/Core/src/uart.o
+ .debug_macro   0x00000000       0xfb build/Core/src/uart.o
+ .debug_macro   0x00000000     0x1011 build/Core/src/uart.o
+ .debug_macro   0x00000000      0x11f build/Core/src/uart.o
+ .debug_macro   0x00000000     0xb968 build/Core/src/uart.o
+ .debug_macro   0x00000000       0x6d build/Core/src/uart.o
+ .debug_macro   0x00000000      0x190 build/Core/src/uart.o
+ .debug_line    0x00000000      0x2c8 build/Core/src/uart.o
+ .debug_str     0x00000000    0x4fec1 build/Core/src/uart.o
+ .comment       0x00000000       0x13 build/Core/src/uart.o
+ .debug_frame   0x00000000       0xc4 build/Core/src/uart.o
+ .ARM.attributes
+                0x00000000       0x34 build/Core/src/uart.o
+ .group         0x00000000        0xc build/Core/src/startup.o
+ .group         0x00000000        0xc build/Core/src/startup.o
+ .text          0x00000000        0x0 build/Core/src/startup.o
+ .data          0x00000000        0x0 build/Core/src/startup.o
+ .bss           0x00000000        0x0 build/Core/src/startup.o
+ .debug_macro   0x00000000      0xacc build/Core/src/startup.o
+ .debug_macro   0x00000000      0x34e build/Core/src/startup.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x08000000         0x00080000         xr
+RAM              0x20000000         0x00020000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD build/Core/src/main.o
+LOAD build/Drivers/CMSIS/Device/ST/STM32F4xx/Source/system_stm32f4xx.o
+LOAD build/Core/src/gpio.o
+LOAD build/Core/src/clock.o
+LOAD build/Core/src/uart.o
+LOAD build/Core/src/startup.o
+                0x20020000                        _estack = (ORIGIN (RAM) + LENGTH (RAM))
+
+.isr_vector     0x08000000       0x40
+                0x08000000                        . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x08000000       0x40 build/Core/src/startup.o
+                0x08000000                g_pfnVectors
+                0x08000040                        . = ALIGN (0x4)
+
+.text           0x08000040      0x330
+                0x08000040                        . = ALIGN (0x4)
+ *(.text*)
+ .text.SysTick_Handler
+                0x08000040       0x1c build/Core/src/main.o
+                0x08000040                SysTick_Handler
+ .text.delay    0x0800005c       0x30 build/Core/src/main.o
+                0x0800005c                delay
+ .text.main     0x0800008c       0x38 build/Core/src/main.o
+                0x0800008c                main
+ .text.SystemCoreClockUpdate
+                0x080000c4       0xec build/Drivers/CMSIS/Device/ST/STM32F4xx/Source/system_stm32f4xx.o
+                0x080000c4                SystemCoreClockUpdate
+ .text.clamp_pin
+                0x080001b0       0x1c build/Core/src/gpio.o
+ .text.gpio_enable_port_a
+                0x080001cc       0x24 build/Core/src/gpio.o
+                0x080001cc                gpio_enable_port_a
+ .text.gpio_set_output_a
+                0x080001f0       0x88 build/Core/src/gpio.o
+                0x080001f0                gpio_set_output_a
+ .text.gpio_toggle_a
+                0x08000278       0x30 build/Core/src/gpio.o
+                0x08000278                gpio_toggle_a
+ .text.systick_init_1ms
+                0x080002a8       0x38 build/Core/src/clock.o
+                0x080002a8                systick_init_1ms
+ .text.clock_init
+                0x080002e0       0x1c build/Core/src/clock.o
+                0x080002e0                clock_init
+ .text.Reset_Handler
+                0x080002fc       0x5c build/Core/src/startup.o
+                0x080002fc                Reset_Handler
+ .text.Default_Handler
+                0x08000358        0x8 build/Core/src/startup.o
+                0x08000358                DebugMon_Handler
+                0x08000358                HardFault_Handler
+                0x08000358                PendSV_Handler
+                0x08000358                NMI_Handler
+                0x08000358                UsageFault_Handler
+                0x08000358                Default_Handler
+                0x08000358                MemManage_Handler
+                0x08000358                SVC_Handler
+                0x08000358                BusFault_Handler
+ *(.rodata*)
+ .rodata.AHBPrescTable
+                0x08000360       0x10 build/Drivers/CMSIS/Device/ST/STM32F4xx/Source/system_stm32f4xx.o
+                0x08000360                AHBPrescTable
+ *(.glue_7)
+ .glue_7        0x08000370        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x08000370        0x0 linker stubs
+ *(.eh_frame*)
+                0x08000370                        . = ALIGN (0x4)
+                0x08000370                        _etext = .
+
+.vfp11_veneer   0x08000370        0x0
+ .vfp11_veneer  0x08000370        0x0 linker stubs
+
+.v4_bx          0x08000370        0x0
+ .v4_bx         0x08000370        0x0 linker stubs
+
+.iplt           0x08000370        0x0
+ .iplt          0x08000370        0x0 build/Core/src/main.o
+
+.rel.dyn        0x08000370        0x0
+ .rel.iplt      0x08000370        0x0 build/Core/src/main.o
+
+.data           0x20000000        0x4 load address 0x08000370
+                0x20000000                        . = ALIGN (0x4)
+                0x20000000                        _sdata = .
+ *(.data*)
+ .data.SystemCoreClock
+                0x20000000        0x4 build/Drivers/CMSIS/Device/ST/STM32F4xx/Source/system_stm32f4xx.o
+                0x20000000                SystemCoreClock
+                0x20000004                        . = ALIGN (0x4)
+                0x20000004                        _edata = .
+                0x08000370                        _sidata = LOADADDR (.data)
+
+.igot.plt       0x20000004        0x0 load address 0x08000374
+ .igot.plt      0x20000004        0x0 build/Core/src/main.o
+
+.bss            0x20000004        0x4 load address 0x08000374
+                0x20000004                        . = ALIGN (0x4)
+                0x20000004                        _sbss = .
+ *(.bss*)
+ .bss.g_ms      0x20000004        0x4 build/Core/src/main.o
+ *(COMMON)
+                0x20000008                        . = ALIGN (0x4)
+                0x20000008                        _ebss = .
+OUTPUT(build/blink.elf elf32-littlearm)
+LOAD linker stubs
+
+.debug_info     0x00000000      0xc4d
+ .debug_info    0x00000000      0x11c build/Core/src/main.o
+ .debug_info    0x0000011c      0x51d build/Drivers/CMSIS/Device/ST/STM32F4xx/Source/system_stm32f4xx.o
+ .debug_info    0x00000639      0x3b6 build/Core/src/gpio.o
+ .debug_info    0x000009ef      0x119 build/Core/src/clock.o
+ .debug_info    0x00000b08      0x145 build/Core/src/startup.o
+
+.debug_abbrev   0x00000000      0x4f7
+ .debug_abbrev  0x00000000       0xe6 build/Core/src/main.o
+ .debug_abbrev  0x000000e6      0x11b build/Drivers/CMSIS/Device/ST/STM32F4xx/Source/system_stm32f4xx.o
+ .debug_abbrev  0x00000201      0x11a build/Core/src/gpio.o
+ .debug_abbrev  0x0000031b       0xf4 build/Core/src/clock.o
+ .debug_abbrev  0x0000040f       0xe8 build/Core/src/startup.o
+
+.debug_aranges  0x00000000       0xf8
+ .debug_aranges
+                0x00000000       0x30 build/Core/src/main.o
+ .debug_aranges
+                0x00000030       0x28 build/Drivers/CMSIS/Device/ST/STM32F4xx/Source/system_stm32f4xx.o
+ .debug_aranges
+                0x00000058       0x50 build/Core/src/gpio.o
+ .debug_aranges
+                0x000000a8       0x28 build/Core/src/clock.o
+ .debug_aranges
+                0x000000d0       0x28 build/Core/src/startup.o
+
+.debug_rnglists
+                0x00000000       0xa3
+ .debug_rnglists
+                0x00000000       0x1f build/Core/src/main.o
+ .debug_rnglists
+                0x0000001f       0x1a build/Drivers/CMSIS/Device/ST/STM32F4xx/Source/system_stm32f4xx.o
+ .debug_rnglists
+                0x00000039       0x38 build/Core/src/gpio.o
+ .debug_rnglists
+                0x00000071       0x19 build/Core/src/clock.o
+ .debug_rnglists
+                0x0000008a       0x19 build/Core/src/startup.o
+
+.debug_macro    0x00000000     0xdd3a
+ .debug_macro   0x00000000       0x9b build/Core/src/main.o
+ .debug_macro   0x0000009b      0xacc build/Core/src/main.o
+ .debug_macro   0x00000b67      0x34e build/Core/src/main.o
+ .debug_macro   0x00000eb5       0x2e build/Core/src/main.o
+ .debug_macro   0x00000ee3       0x28 build/Core/src/main.o
+ .debug_macro   0x00000f0b       0x1c build/Core/src/main.o
+ .debug_macro   0x00000f27       0x22 build/Core/src/main.o
+ .debug_macro   0x00000f49       0xfb build/Core/src/main.o
+ .debug_macro   0x00001044     0x1011 build/Core/src/main.o
+ .debug_macro   0x00002055      0x11f build/Core/src/main.o
+ .debug_macro   0x00002174     0xb968 build/Core/src/main.o
+ .debug_macro   0x0000dadc       0x6d build/Core/src/main.o
+ .debug_macro   0x0000db49       0x9b build/Drivers/CMSIS/Device/ST/STM32F4xx/Source/system_stm32f4xx.o
+ .debug_macro   0x0000dbe4       0x9b build/Core/src/gpio.o
+ .debug_macro   0x0000dc7f       0x97 build/Core/src/clock.o
+ .debug_macro   0x0000dd16       0x24 build/Core/src/startup.o
+
+.debug_line     0x00000000      0x8ef
+ .debug_line    0x00000000      0x1cd build/Core/src/main.o
+ .debug_line    0x000001cd      0x215 build/Drivers/CMSIS/Device/ST/STM32F4xx/Source/system_stm32f4xx.o
+ .debug_line    0x000003e2      0x296 build/Core/src/gpio.o
+ .debug_line    0x00000678      0x1a7 build/Core/src/clock.o
+ .debug_line    0x0000081f       0xd0 build/Core/src/startup.o
+
+.debug_str      0x00000000    0x4fc00
+ .debug_str     0x00000000    0x4fc00 build/Core/src/main.o
+                              0x4f9fd (size before relaxing)
+ .debug_str     0x0004fc00        0x0 build/Drivers/CMSIS/Device/ST/STM32F4xx/Source/system_stm32f4xx.o
+                              0x4fbd5 (size before relaxing)
+ .debug_str     0x0004fc00        0x0 build/Core/src/gpio.o
+                              0x4fb3a (size before relaxing)
+ .debug_str     0x0004fc00        0x0 build/Core/src/clock.o
+                              0x4fa07 (size before relaxing)
+ .debug_str     0x0004fc00        0x0 build/Core/src/startup.o
+                               0x3930 (size before relaxing)
+
+.comment        0x00000000       0x12
+ .comment       0x00000000       0x12 build/Core/src/main.o
+                                 0x13 (size before relaxing)
+ .comment       0x00000012        0x0 build/Drivers/CMSIS/Device/ST/STM32F4xx/Source/system_stm32f4xx.o
+                                 0x13 (size before relaxing)
+ .comment       0x00000012        0x0 build/Core/src/gpio.o
+                                 0x13 (size before relaxing)
+ .comment       0x00000012        0x0 build/Core/src/clock.o
+                                 0x13 (size before relaxing)
+ .comment       0x00000012        0x0 build/Core/src/startup.o
+                                 0x13 (size before relaxing)
+
+.ARM.attributes
+                0x00000000       0x34
+ .ARM.attributes
+                0x00000000       0x34 build/Core/src/main.o
+ .ARM.attributes
+                0x00000034       0x34 build/Drivers/CMSIS/Device/ST/STM32F4xx/Source/system_stm32f4xx.o
+ .ARM.attributes
+                0x00000068       0x34 build/Core/src/gpio.o
+ .ARM.attributes
+                0x0000009c       0x34 build/Core/src/clock.o
+ .ARM.attributes
+                0x000000d0       0x34 build/Core/src/startup.o
+
+.debug_frame    0x00000000      0x274
+ .debug_frame   0x00000000       0x74 build/Core/src/main.o
+ .debug_frame   0x00000074       0x58 build/Drivers/CMSIS/Device/ST/STM32F4xx/Source/system_stm32f4xx.o
+ .debug_frame   0x000000cc      0x10c build/Core/src/gpio.o
+ .debug_frame   0x000001d8       0x54 build/Core/src/clock.o
+ .debug_frame   0x0000022c       0x48 build/Core/src/startup.o
