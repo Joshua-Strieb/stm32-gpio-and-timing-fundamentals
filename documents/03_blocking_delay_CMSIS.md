@@ -42,8 +42,12 @@ int main(void)
 The gpio_enable_port_a() and     gpio_set_output_a() functions live in gpio.c which are then called in main() to simplify and produce neat code. 
 ## Results
 As seen below with 500 entered in the delay function, the LED toggles every 500ms. 
+
+https://github.com/user-attachments/assets/41dbd318-36b7-4d57-a222-cfa4c9671267
+
 ## Expanded with Two LEDs
 A second LED will then be added on GPIO pin 6.
 ## Results
 An identical effect can be seen compared to the HAL example where the toggle becomes longer when an additional delay is introduced showing the processor delay.
 
+https://github.com/user-attachments/assets/3796bb2c-e423-43b2-8d4d-02fd5a052518
